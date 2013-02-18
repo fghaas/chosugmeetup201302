@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="142"
+   height="130"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="linux-ha.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2902"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2976"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3114"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="128.08998"
+     inkscape:cy="46.764648"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-28.680445,30.49191"
+       id="guide2872" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-89.39473,-375.17552)">
+    <g
+       id="g2826"
+       transform="translate(1.5551152,-2.7102162)">
+      <g
+         transform="translate(-10,0)"
+         id="g2457">
+        <path
+           style="fill:#fc0202"
+           d="m 161.2931,470.82648 -3.50581,-3.75 c 1.18905,-9.12745 2.71034,-27.60714 2.71034,-27.60714 0,0 -2.92516,-2.67857 -2.92516,-2.67857 l -0.4273,9.0057 -0.51659,7.21999 -3.34258,2.7905 -3.34258,2.79051 -3.75717,-3.76049 -3.75718,-3.7605 2.50915,-29.5 c 1.38003,-16.225 2.7418,-30.95979 3.02615,-32.74397 l 0.51701,-3.24397 3.67363,-2.4963 3.67362,-2.49629 3.58002,3.49579 3.58001,3.49579 -1.37191,13.58705 -1.37191,13.58705 2.3598,2.35981 1.28838,-16.7589 3.579,-2.0721 3.57901,-2.0721 3.63545,2.90079 3.63545,2.9008 8.28555,24.02827 c 4.55705,13.21556 8.28554,24.30017 8.28554,24.63248 l -6.2035,5.8241 -4.20067,-3.08922 -4.20068,-3.08921 -2.69757,2.3649 c -1.48367,1.3007 -3.26008,3.01799 -3.94758,3.8162 l -1.25,1.45129 -3e-5,5.55887 -3e-5,5.55887 -3.44654,2.75 c -1.8956,1.5125 -3.60426,2.75 -3.79702,2.75 -0.19277,0 -1.9281,-1.6875 -3.8563,-3.75 l 0,0 z"
+           id="path2956-1" />
+        <path
+           id="path2453"
+           style="fill:#070606"
+           d="m 153.7722,419.50057 2.3886,-26.35708 6.87216,-5.24166 c -0.93588,9.47196 -1.61875,27.23414 -1.61875,27.23414 0,0 1.28896,1.20383 1.28896,1.20383 0,0 -0.56551,10.18881 -0.70301,10.30162 l -8.22796,-7.14085 z m -2.69205,32.07978 c 0.33739,-3.22356 0.91173,-8.69508 1.27631,-12.15891 l 0.66287,-6.29788 4.93942,3.97076 -1.08214,15.9454 -6.85634,5.65167 1.05988,-7.11104 z m 31.501,-16.97514 -5.46212,-14.83232 -2.07508,21.16072 c 0,0 7.5372,-6.3284 7.5372,-6.3284 z m -11.32846,-28.02297 7.10461,-4.51977 c 5.65098,16.06691 12.04506,31.91941 16.89286,48.26112 l -6.33268,5.93281 -1.20447,-3.7685 -1.89328,-6.20607 -11.37315,9.98057 -1.69641,12.45702 -3.63234,2.89826 -3.63235,2.89825 0.67024,-6.39825 0,-1e-4 5.097,-61.53534 -3e-5,0 0,0 z" />
+      </g>
+      <text
+         id="text2856"
+         y="426.82523"
+         x="30.052038"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="426.82523"
+           x="30.052038"
+           id="tspan2858"
+           sodipodi:role="line" /></text>
+      <g
+         transform="matrix(0.87412657,0,0,1.4169248,-9.1401128,-192.14961)"
+         id="g2878">
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fc0202;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           x="111.07143"
+           y="488.25507"
+           id="text2868"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2870"
+             x="111.07143"
+             y="488.25507">High</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           x="158.39284"
+           y="488.25507"
+           id="text2874"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2876"
+             x="158.39284"
+             y="488.25507">Availability</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
