@@ -15,32 +15,60 @@
     </div>
     <div id="impress">
       <div class="step slide" data-x="0" data-y="-2000" data-scale="1">
-	<img class="with-heading" src="openstack-logo.svg" style="float:left; margin-right: 5%;"/>
-	<h1>High Availability Update</h1>
-	<p>OpenStack High Availability in Grizzly and Beyond</p>
-	<div class="notes"><p></p></div>
+        <img class="with-heading" src="openstack-logo.svg" style="float:left; margin-right: 5%;"/>
+        <h1>High Availability Update</h1>
+        <p>OpenStack High Availability in Grizzly and Beyond</p>
+        <div class="notes"><p></p></div>
       </div>
       <div class="step invisible" data-x="0" data-y="-3000" data-scale="1">
-	<p>Who the <strong>$?#%</strong> is this guy?</p>
+        <p>Who the <strong>$?#%</strong> is this guy?</p>
       </div>
       <div class="step invisible" data-x="0" data-y="-4000" data-scale="1">
-	<h3>Florian Haas</h3>
-	<p><a href="http://www.hastexo.com/who/florian">http://www.hastexo.com/who/florian</a></p>
-	<p><a href="http://goo.gl/ANHQe">http://goo.gl/ANHQe</a></p>
-	<p><code>florian@hastexo.com</code></p>
-	<p><a href="https://twitter.com/hastexo"><code>@hastexo</code></a></p>
+        <h3>Florian Haas</h3>
+        <p><a href="http://www.hastexo.com/who/florian">http://www.hastexo.com/who/florian</a></p>
+        <p><a href="http://goo.gl/ANHQe">http://goo.gl/ANHQe</a></p>
+        <p><code>florian@hastexo.com</code></p>
+        <p><a href="https://twitter.com/hastexo"><code>@hastexo</code></a></p>
       </div>
       <div class="step invisible" data-x="0" data-y="1000" data-scale="4">
-	<img class="full" src="linux-ha.svg">
+        <img class="full" src="linux-ha.svg">
       </div>
-      <div class="step opaque" data-x="0" data-y="0" data-scale="1">
-	<h1>Infrastructure</h1>
+      <div class="step opaque" data-x="0" data-y="0" data-scale="2">
+        <h1>Infrastructure</h1>
       </div>
-      <div class="step opaque" data-x="-1500" data-y="2000" data-scale="1">
-	<h1>Nova</h1>
+      <div class="step invisible" data-x="0" data-y="1000" data-scale="1">
+        <p>Infrastructure HA is <strong>high availability</strong> for OpenStack Infrastructure Services.</p>
+        <p>Think database, AMQP&nbsp;server, API&nbsp;services, etc.</p>
       </div>
-      <div class="step opaque" data-x="1500" data-y="2000" data-scale="1">
-	<h1>Quantum</h1>
+      <div class="step invisible" data-x="0" data-y="2000" data-scale="1">
+        <p>We have to consider at least 5 OpenStack <strong>node types</strong> for Infrastructure HA.</p>
+      </div>
+      <div class="step invisible" data-x="0" data-y="3000" data-scale="1">
+        <p>Cloud Controller</p>
+        <p>API Node</p>
+        <p>Network Node</p>
+        <p>Compute Node</p>
+        <p>Storage Controller</p>
+      </div>
+      <div class="step invisible" data-x="0" data-y="4000" data-scale="1">
+        <p>All use the <strong>same&nbsp;high&nbsp;availability&nbsp;stack,</strong> just with different configurations.</p>
+      </div>
+      <div class="step invisible" data-x="0" data-y="5000" data-scale="1">
+        <img class="full" src="pacemaker_logo.svg" alt="Pacemaker logo"/>
+      </div>
+      <div class="step invisible" data-x="0" data-y="6000" data-scale="1">
+        <p>We have <strong>reference&nbsp;configurations</strong> for Pacemaker and OpenStack HA,
+        covering all OpenStack Infrastructure Services.</p>
+      </div>
+      <div class="step invisible" data-x="0" data-y="7000" data-scale="1">
+        <p>Some issues remained in Quantum, but those should be fixed in time for Grizzly.</p>
+      </div>
+
+      <div class="step opaque" data-x="-1500" data-y="2000" data-scale="2">
+        <h1>Nova</h1>
+      </div>
+      <div class="step opaque" data-x="1500" data-y="2000" data-scale="2">
+        <h1>Quantum</h1>
       </div>
 
     </div>
