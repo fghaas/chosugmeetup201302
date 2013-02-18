@@ -60,14 +60,26 @@
         <p>We have <strong>reference&nbsp;configurations</strong> for Pacemaker and OpenStack HA,
         covering all OpenStack Infrastructure Services.</p>
       </div>
-      <div class="step invisible" data-x="0" data-y="7000" data-scale="1">
-        <p>Some issues remained in Quantum, but those should be fixed in time for Grizzly.</p>
-      </div>
-
       <div class="step opaque" data-x="-1500" data-y="2000" data-scale="2">
         <h1>Nova</h1>
       </div>
-      <div class="step opaque" data-x="1500" data-y="2000" data-scale="2">
+      <div class="step invisible" data-x="-1500" data-y="3000" data-scale="2">
+        <p><strong>Guest&nbsp;high&nbsp;availability</strong> has also been addressed in the Grizzly cycle.</p>
+      </div>
+      <div class="step invisible" data-x="-1500" data-y="4000" data-scale="2">
+        <p>The <code>--host=</code> and<br/><code>--resume_guest_state_on_host_boot</code> hack</p>
+      </div>
+      <div class="step invisible" data-x="-1500" data-y="5000" data-scale="2">
+        <p>Issues: breaks live migration, unsafe with volumes</p>
+      </div>
+      <div class="step invisible" data-x="-1500" data-y="6000" data-scale="2">
+        <p>Host evacuation</p>
+        <p><code>nova evacuate <em>guest</em> <em>target</em></code></p>
+      </div>
+      <div class="step invisible" data-x="-1500" data-y="7000" data-scale="2">
+        <p>Issues: per-guest, per-host, and only from a down host.</p>
+      </div>
+      <div class="step invisible" data-x="1500" data-y="2000" data-scale="2">
         <h1>Quantum</h1>
       </div>
 
