@@ -100,8 +100,28 @@
         <p>But you probably guessed that.</p>
       </div>
 
-      <div class="step opaque" data-x="1500" data-y="2000" data-scale="2">
+      <div id="quantum" class="step opaque" data-x="1500" data-y="2000" data-scale="2">
         <h1>Quantum</h1>
+      </div>
+      <div class="step invisible" data-x="1500" data-y="3000" data-scale="1">
+        <p>Quantum is an <strong>infrastructure service</strong> that can use
+         the same HA approach as all others for <strong>Active/Passive&nbsp;failover.</strong></p>
+        <img class="full" src="pacemaker_logo.svg" alt="Pacemaker logo"/>
+      </div>
+      <div class="step invisible" data-x="1500" data-y="4000" data-scale="1">
+        <p><strong>Works well</strong> for <code>quantum-server</code> and L3 agent.</p>
+      </div>
+      <div class="step invisible" data-x="1500" data-y="5000" data-scale="1">
+        <p>Has <strong>minor limitations</strong> for DHCP&nbsp;agent.</p>
+      </div>
+      <div class="step invisible" data-x="1500" data-y="6000" data-scale="1">
+        <p>However, pure Active/Passive approach <strong>does&nbsp;not&nbsp;scale&nbsp;well.</strong></p>
+      </div>
+      <div class="step invisible" data-x="1500" data-y="7000" data-scale="1">
+        <p>A patch to support <strong>multiple DHCP and L3 agents</strong> addresses this.</p>
+      </div>
+      <div class="step invisible" data-x="2000" data-y="7000" data-scale="1">
+        <p><a href="https://review.openstack.org/#/c/21175/">Will it make Grizzly?</a></p>
       </div>
 
     </div>
