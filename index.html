@@ -33,6 +33,7 @@
       <div class="step invisible" data-x="0" data-y="1000" data-scale="4">
         <img class="full" src="linux-ha.svg">
       </div>
+
       <div class="step opaque" data-x="0" data-y="0" data-scale="2">
         <h1>Infrastructure</h1>
       </div>
@@ -60,26 +61,46 @@
         <p>We have <strong>reference&nbsp;configurations</strong> for Pacemaker and OpenStack HA,
         covering all OpenStack Infrastructure Services.</p>
       </div>
+
       <div class="step opaque" data-x="-1500" data-y="2000" data-scale="2">
         <h1>Nova</h1>
       </div>
-      <div class="step invisible" data-x="-1500" data-y="3000" data-scale="2">
+      <div class="step invisible" data-x="-1500" data-y="3000" data-scale="1">
         <p><strong>Guest&nbsp;high&nbsp;availability</strong> has also been addressed in the Grizzly cycle.</p>
       </div>
-      <div class="step invisible" data-x="-1500" data-y="4000" data-scale="2">
+      <div class="step invisible" data-x="-1500" data-y="4000" data-scale="1">
         <p>The <code>--host=</code> and<br/><code>--resume_guest_state_on_host_boot</code> hack</p>
       </div>
-      <div class="step invisible" data-x="-1500" data-y="5000" data-scale="2">
+      <div class="step invisible" data-x="-1500" data-y="5000" data-scale="1">
         <p>Issues: breaks live migration, unsafe with volumes</p>
       </div>
-      <div class="step invisible" data-x="-1500" data-y="6000" data-scale="2">
+      <div class="step invisible" data-x="-1500" data-y="6000" data-scale="1">
         <p>Host evacuation</p>
         <p><code>nova evacuate <em>guest</em> <em>target</em></code></p>
       </div>
-      <div class="step invisible" data-x="-1500" data-y="7000" data-scale="2">
-        <p>Issues: per-guest, per-host, and only from a down host.</p>
+      <div class="step invisible" data-x="-2000" data-y="6000" data-scale="1">
+        <p>A misnomer?</p>
       </div>
-      <div class="step invisible" data-x="1500" data-y="2000" data-scale="2">
+      <div class="step invisible" data-x="-2500" data-y="6000" data-scale="1">
+        <p><strong>When</strong> do you commonly evacuate?</p>
+      </div>
+      <div class="step invisible" data-x="-3000" data-y="6000" data-scale="1">
+        <img class="full" src="storm.jpg" alt="Hurricane Andrew (1992)" />
+        <p class="caption">Photo credit: NOAA (Public Domain)</p>
+      </div>
+      <div class="step invisible" data-x="-3500" data-y="6000" data-scale="1">
+        <img class="full" src="storm-destruction.jpg" alt="Destruction from Hurricane Andrew, Dade County, Fla. (1992)" />
+        <p class="caption">Photo credit: FEMA (Public Domain)</p>
+      </div>
+      <div class="step invisible" data-x="-4000" data-y="6000" data-scale="1">
+        <p><code>evacuate</code> issues:<br/>per-guest, per-host, no&nbsp;automation, and only&nbsp;supported&nbsp;from&nbsp;a&nbsp;down&nbsp;host.</p>
+      </div>
+      <div class="step invisible" data-x="-4500" data-y="6000" data-scale="1">
+        <p>Also: no evacuation support in <strong>Horizon</strong> (for Grizzly).</p>
+        <p>But you probably guessed that.</p>
+      </div>
+
+      <div class="step opaque" data-x="1500" data-y="2000" data-scale="2">
         <h1>Quantum</h1>
       </div>
 
