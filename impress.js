@@ -1,1 +1,1 @@
-/home/florian/git/impress.js/js/impress.js
+../impress.js/js/impress.js
