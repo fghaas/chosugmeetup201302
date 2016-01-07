@@ -1,1 +1,1 @@
-../impress.js/js/impress.js
+impress/js/impress.js
